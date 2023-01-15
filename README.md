@@ -1,4 +1,4 @@
-# CourseProject-W19-MLProj-Various ways to reduce bad flight
+# CourseProject-W19-MLProj-SVM-And-Other-Model  
 
 This is course project of Juncheng An. <Wintear 2019 - EECS 445 Introduction to Machine Learning - Project 1>. 
   
